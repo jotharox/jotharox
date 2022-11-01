@@ -9,7 +9,7 @@
 <hr/>
 <div>
   <h3>
-    Contacte me
+    Contact me
   </h3>
   <p><b>📧 E-mail: </b>contato.jotharox@gmail.com</p>
   <p><b>🖋️ LinkedIn: </b>https://www.linkedin.com/in/jotharox/</p>
